@@ -1,0 +1,205 @@
+{
+  "status": "success",
+  "job_id": "software-engineer,-ml-research-1a7506",
+  "candidates_found": 5,
+  "candidates_scored": 5,
+  "execution_time": 14.77,
+  "top_candidates": [
+    {
+      "name": "Andrej Karpathy",
+      "headline": "Andrej Karpathy - Tesla",
+      "title": "Andrej Karpathy - Tesla",
+      "company": "Tesla",
+      "location": "San Francisco, California, United States",
+      "linkedin_url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+      "snippet": "https://karpathy.ai/ · Experience: Tesla · Education: Stanford University · Location: San Francisco · 280 connections on LinkedIn. View Andrej Karpathy's ...",
+      "education": "",
+      "current_role": "",
+      "profile_data": {
+        "name": "Andrej Karpathy",
+        "headline": "Andrej Karpathy - Tesla",
+        "title": "Andrej Karpathy - Tesla",
+        "company": "Tesla",
+        "location": "San Francisco, California, United States",
+        "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+        "linkedin_url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+        "snippet": "https://karpathy.ai/ · Experience: Tesla · Education: Stanford University · Location: San Francisco · 280 connections on LinkedIn. View Andrej Karpathy's ...",
+        "education": "",
+        "current_role": ""
+      },
+      "score": 85,
+      "score_breakdown": {
+        "education": "Stanford University - 9 points",
+        "experience": "Strong overlap (70%+)- 8 points",
+        "company": "FAANG/Top tech - 9 points",
+        "trajectory": "Senior level - 8 points",
+        "location": "Same country - 6 points",
+        "tenure": "2+ years per role - 8 points"
+      },
+      "fit_level": "Excellent Fit",
+      "outreach_message": "Hi Andrej,\n\nI came across your profile and was impressed by your experience in AI research at Tesla. Given your background in developing cutting-edge machine learning models, I believe you would be a strong fit for a Software Engineer role at Windsurf. \n\nWe are a Forbes AI 50 company focused on revolutionizing developer productivity through AI-powered tools.  Would you be open to a brief conversation to explore this opportunity further? \n\nThanks,\n[Your Name] \n\n\n\n",
+      "message_generated": true,
+      "key_highlights": [
+        "Experience at Tesla",
+        "Strong technical fit",
+        "Located in San Francisco, California, United States"
+      ]
+    },
+    {
+      "name": "Andrej Karpathy",
+      "headline": "Andrej Karpathy - Tesla",
+      "title": "Andrej Karpathy - Tesla",
+      "company": "Tesla",
+      "location": "San Francisco, California, United States",
+      "linkedin_url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+      "snippet": "Double major in Physics and Computer Science, minor in Mathematics. Websites. Personal Website: https://karpathy.ai/",
+      "education": "",
+      "current_role": "",
+      "profile_data": {
+        "name": "Andrej Karpathy",
+        "headline": "Andrej Karpathy - Tesla",
+        "title": "Andrej Karpathy - Tesla",
+        "company": "Tesla",
+        "location": "San Francisco, California, United States",
+        "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+        "linkedin_url": "https://www.linkedin.com/in/andrej-karpathy-9a650716",
+        "snippet": "Double major in Physics and Computer Science, minor in Mathematics. Websites. Personal Website: https://karpathy.ai/",
+        "education": "",
+        "current_role": ""
+      },
+      "score": 75.0,
+      "score_breakdown": {
+        "education": "Elite schools (MIT/Stanford/etc.): 10 points",
+        "experience": "Perfect skill match: 10 points",
+        "company": "FAANG/Top tech: 10 points",
+        "trajectory": "Senior level: 10 points",
+        "location": "Same country: 6 points",
+        "tenure": "2+ years per role: 10 points"
+      },
+      "fit_level": "Strong Fit",
+      "outreach_message": "Hi Andrej, \n\nMy name is [Your Name] and I'm a recruiter at Windsurf. With your background in physics, computer science, and mathematics, I thought you might be interested in our open Software Engineer, ML Research position. We're building the future of developer productivity through AI, and your experience aligns well with the role's requirements.  \n\nWould you be open to a brief conversation to learn more about the opportunity?  \n\nThanks,\n[Your Name] \n\n\n\n",
+      "message_generated": true,
+      "key_highlights": [
+        "Experience at Tesla",
+        "Strong technical fit",
+        "Located in San Francisco, California, United States"
+      ]
+    },
+    {
+      "name": "Shreya Shankar",
+      "headline": "Shreya Shankar - Google",
+      "title": "Shreya Shankar - Google",
+      "company": "Google",
+      "location": "Berkeley, California, United States",
+      "linkedin_url": "https://www.linkedin.com/in/shrshnk",
+      "snippet": "Shreya Shankar. Google UC Berkeley Electrical Engineering & Computer Sciences (EECS). Berkeley, California, United States. 3K followers 500+ ...",
+      "education": "",
+      "current_role": "",
+      "profile_data": {
+        "name": "Shreya Shankar",
+        "headline": "Shreya Shankar - Google",
+        "title": "Shreya Shankar - Google",
+        "company": "Google",
+        "location": "Berkeley, California, United States",
+        "url": "https://www.linkedin.com/in/shrshnk",
+        "linkedin_url": "https://www.linkedin.com/in/shrshnk",
+        "snippet": "Shreya Shankar. Google UC Berkeley Electrical Engineering & Computer Sciences (EECS). Berkeley, California, United States. 3K followers 500+ ...",
+        "education": "",
+        "current_role": ""
+      },
+      "score": 68.0,
+      "score_breakdown": {
+        "education": "Elite school (UC Berkeley) - 9 points",
+        "experience": "Limited experience details - 5 points",
+        "company": "FAANG (Google) - 10 points",
+        "trajectory": "Mid-level (based on headline) - 7 points",
+        "location": "Same country - 6 points",
+        "tenure": "Not specified - 5 points"
+      },
+      "fit_level": "Good Fit",
+      "outreach_message": "Hi Shreya,\n\nI came across your profile and was impressed by your background in Electrical Engineering & Computer Sciences from UC Berkeley. \n\nI'm reaching out about a Software Engineer, ML Research position at Windsurf, a Forbes AI 50 company focused on developer productivity through AI. Your experience aligns well with the role, particularly your focus on large language models.\n\nWould you be open to a brief conversation about this opportunity? \n\nThanks,\n[Your Name] \n\n\n\n",
+      "message_generated": true,
+      "key_highlights": [
+        "Experience at Google",
+        "Located in Berkeley, California, United States"
+      ]
+    },
+    {
+      "name": "Sebastian Ruder",
+      "headline": "Sebastian Ruder – Meta",
+      "title": "Sebastian Ruder – Meta",
+      "company": "Berlin, Berlin, Deutschland",
+      "location": "",
+      "linkedin_url": "https://de.linkedin.com/in/sebastianruder",
+      "snippet": "Sebastian Ruder. Meta National University of Ireland, Galway. Berlin, Berlin, Deutschland. 4374 Follower: ...",
+      "education": "",
+      "current_role": "",
+      "profile_data": {
+        "name": "Sebastian Ruder",
+        "headline": "Sebastian Ruder – Meta",
+        "title": "Sebastian Ruder – Meta",
+        "company": "Berlin, Berlin, Deutschland",
+        "location": "",
+        "url": "https://de.linkedin.com/in/sebastianruder",
+        "linkedin_url": "https://de.linkedin.com/in/sebastianruder",
+        "snippet": "Sebastian Ruder. Meta National University of Ireland, Galway. Berlin, Berlin, Deutschland. 4374 Follower: ...",
+        "education": "",
+        "current_role": ""
+      },
+      "score": 45.0,
+      "score_breakdown": {
+        "education": "National University of Ireland, Galway -  Good universities: 7 points",
+        "experience": "Headline mentions 'Meta' - Strong overlap (70%+): 7 points",
+        "company": "Meta - FAANG/Top tech: 9 points",
+        "trajectory": "Headline mentions 'Meta' - Senior level: 8 points",
+        "location": "Berlin, Germany vs. Mountain View, CA - Different country: 3 points",
+        "tenure": "Not specified -  Assume 2+ years per role: 8 points"
+      },
+      "fit_level": "Poor Fit",
+      "outreach_message": "Hi Sebastian,\n\nI noticed your background in AI research at Meta and your impressive LinkedIn profile. I'm reaching out because we at Windsurf are looking for talented Software Engineers with ML expertise to join our team in Mountain View. We're building cutting-edge AI products for developers, and your experience seems like a great fit.\n\nWould you be open to a brief chat to learn more about the opportunity? \n\nThanks,\n\n[Your Name]\n[Your Title] \n\n\n\n",
+      "message_generated": true,
+      "key_highlights": [
+        "Experience at Berlin, Berlin, Deutschland"
+      ]
+    },
+    {
+      "name": "Chris Manning",
+      "headline": "Chris Manning - Communications Associate - Internal and ...",
+      "title": "Chris Manning - Communications Associate - Internal and ...",
+      "company": "Greater Cleveland",
+      "location": "",
+      "linkedin_url": "https://www.linkedin.com/in/chris-manning-48688657",
+      "snippet": "Chris Manning. Communications pro. JPMorgan Chase & Co. Ohio University. Greater Cleveland. 437 followers 426 connections. See your mutual ...",
+      "education": "",
+      "current_role": "Internal and Executive Communications",
+      "profile_data": {
+        "name": "Chris Manning",
+        "headline": "Chris Manning - Communications Associate - Internal and ...",
+        "title": "Chris Manning - Communications Associate - Internal and ...",
+        "company": "Greater Cleveland",
+        "location": "",
+        "url": "https://www.linkedin.com/in/chris-manning-48688657",
+        "linkedin_url": "https://www.linkedin.com/in/chris-manning-48688657",
+        "snippet": "Chris Manning. Communications pro. JPMorgan Chase & Co. Ohio University. Greater Cleveland. 437 followers 426 connections. See your mutual ...",
+        "education": "",
+        "current_role": "Internal and Executive Communications"
+      },
+      "score": 13.0,
+      "score_breakdown": {
+        "education": "Ohio University - 6 points (Good university)",
+        "experience": "0 points (No relevant experience)",
+        "company": "3 points (Non-tech/intern)",
+        "trajectory": "3 points (Student only)",
+        "location": "0 points (Different country)",
+        "tenure": "3 points (No experience) "
+      },
+      "fit_level": "Poor Fit",
+      "outreach_message": "Hi Chris, \n\nI hope this message finds you well.\n\nAs a Communications Associate with a background in impactful storytelling, you likely have a keen understanding of how cutting-edge technologies like ours can shape the future. My team at Windsurf is searching for a passionate Software Engineer to join our ML Research team and  I believe your expertise could be a valuable asset.  \n\nWould you be open to a quick conversation about this opportunity?\n\nBest,\n\n[Your Name]\n\n\n\n\n",
+      "message_generated": true,
+      "key_highlights": [
+        "Experience at Greater Cleveland"
+      ]
+    }
+  ],
+  "summary": "EXECUTION SUMMARY:\n        • Total Candidates: 5\n        • Excellent Fits (80+): 1\n        • Strong Fits (70-79): 1  \n        • Good Fits (60-69): 1\n        • Top Candidate: Andrej Karpathy (85.0/100)\n        • Execution Time: 14.8s"
+}

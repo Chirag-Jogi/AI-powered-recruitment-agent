@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+*.sqlite3
+test_groq.py
+test_messenger.py
+test_scraper.py
+test_scorer.py

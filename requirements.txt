@@ -1,0 +1,9 @@
+# openai
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+pydantic
+python-dotenv
+google-search-results
+groq
