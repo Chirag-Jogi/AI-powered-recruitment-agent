@@ -1,9 +1,11 @@
-# openai
 fastapi
-uvicorn
-httpx
-beautifulsoup4
-pydantic
+uvicorn[standard]
 python-dotenv
-google-search-results
+httpx
+python-multipart
 groq
+google-search-results
+requests
+streamlit>=1.28.0
+pandas
+plotly

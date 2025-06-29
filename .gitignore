@@ -9,3 +9,6 @@ test_groq.py
 test_messenger.py
 test_scraper.py
 test_scorer.py
+
+# Streamlit secrets (keep private)
+.streamlit/secrets.toml
