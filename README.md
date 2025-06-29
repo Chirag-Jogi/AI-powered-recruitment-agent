@@ -1,4 +1,5 @@
-# 🚀 AI Sourcing Agent
+# 🚀AI-powered-recruitment-agent
+
 
 AI-powered recruitment agent that automatically sources LinkedIn candidates, scores them using advanced LLMs, and generates personalized outreach messages.
 
