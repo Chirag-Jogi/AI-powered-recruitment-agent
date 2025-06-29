@@ -77,7 +77,7 @@ def get_fit_level(score):
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">🚀 AI Sourcing Agent</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">🚀 AI-Powered-Recruitment-Agent</h1>', unsafe_allow_html=True)
     st.markdown("**Intelligent recruitment automation powered by AI**")
     
     # Sidebar
