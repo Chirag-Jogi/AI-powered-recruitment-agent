@@ -26,7 +26,7 @@ def get_api_keys():
     
 # Page configuration
 st.set_page_config(
-    page_title="🚀 AI Sourcing Agent",
+    page_title="🚀 AI-Powered-Recruitment-Agent",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
