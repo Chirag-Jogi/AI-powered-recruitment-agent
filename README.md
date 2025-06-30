@@ -43,7 +43,7 @@ ai-sourcing-agent/
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 10 or higher
 - [Groq API Key](https://console.groq.com/) (Free tier available)
 - [SerpAPI Key](https://serpapi.com/) (Free tier: 100 searches/month)
 
