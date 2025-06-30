@@ -5,7 +5,6 @@ AI-powered recruitment agent that automatically sources LinkedIn candidates, sco
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 
 ### Streamlit Deploy Project Link
