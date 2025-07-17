@@ -1,6 +1,6 @@
 # 🚀 HireGenius-AI-powered-recruitment-agent
 
-
+### Disclaimer -  The Link is not working as my free groq API IS OVER . Sorry for the the inconvience. You can read my Readme .
 AI-powered recruitment agent that automatically sources LinkedIn candidates, scores them using advanced LLMs, and generates personalized outreach messages.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
